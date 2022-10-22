@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2&display=swap');
+body{
+    background-color: grey;
+    font-family: 'Baloo Paaji 2';
+}
+.margin{
+    text-align: center;
+    border: 2px solid white;
+    width: 500px;
+    margin-left: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    height: 750px;
+    
+}
+.photo{
+    text-align: left;
+    padding: 20px;
+}
+#ph{
+    height: 170px;
+    border-radius: 15px;
+}
+#d{
+    margin-top: -200px;
+    height: 200px;
+    width: 460px;
+}
+#h{
+    margin-top: -170px;
+    height: 200px;
+    width: 370px;
+    color: grey;
+    font-size: large;
+}
+#s{
+    margin-top: -170px;
+    height: 200px;
+    width: 450px;
+    color: grey;
+    font-size: large;
+}
+#r{
+    margin-top: -180px;
+    height: 50px;
+    width: 540px;
+    color: grey;
+    border-bottom: 3px dashed grey;
+    font-size: large;
+    
+}
+#scan{
+    height: 165px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.scn{
+    text-align: left;
+}
+.m2{
+    text-align: center;
+    border: 2px solid white;
+    width: 465px;
+    padding: 5px;
+    margin-left: 10px;
+    background-color: rgb(240, 239, 239);
+    border-radius: 20px;
+}
+.sct{
+    color: rgb(96, 96, 96);
+    margin-top: -200px;
+    height: 220px;
+    width: 650px;
+    font-size: 20px;
+}
+#scre{
+    color: black;
+    font-weight: 1000;
+    font-size: 25px;
+    margin-top: -10px;
+}
+#pt{
+    margin-top: -25px;
+    font-size: larger;
+}
+#bk{
+    color: black;
+    font-weight: 1000;
+    font-size: 18px;
+    margin-top: -20px;
+}
+#ts{
+    margin-top: -18px;
+}
+.img{
+    height: 30px;
+    margin-left: 5px;
+}
+/* .ticket{
+    margin-top: 40px;
+    margin-left: -300px;
+}
+.canc{
+    margin-top: -85px;
+}
+.cont{
+    margin-top: -85px;
+    margin-right: -300px;
+} */
+.m4{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    
+}
+.line{
+    color: grey;
+    margin-top: -1px;
+    
+}
+.m3{
+    color: grey;
+    font-size: large;
+    margin-top: -10px;
+}
+.m5{
+    font-size: x-large;
+    font-weight: bolder;
+    background-color:rgb(240, 239, 239);
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid  rgb(240, 239, 239);
+    height: 91px;
+    width: 500px;
+    margin-left: -2px;
+    border-radius: 0 0 20px 20px;
+}
